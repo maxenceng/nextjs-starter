@@ -1,0 +1,9 @@
+{
+  "presets": [
+    "env",
+    "react",
+    "flow",
+    "next/babel",
+    "stage-2"
+  ]
+}
